@@ -1,0 +1,15 @@
+img.noborder{
+    border: none !important;
+    background: none !important;
+    box-shadow: none !important;
+	margin: 0 !important;
+}
+
+jc-nospace{
+	margin:0 !important;
+}
+
+.jc-highlight {
+	color:#cf0;
+	font-weight:bold;
+}
